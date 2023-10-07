@@ -6,7 +6,7 @@ Link: https://github.com/yaoyao0103/SIC-linking-loader
 ### SIC assembly
 ![image](https://github.com/yaoyao0103/SIC-assembler/assets/76504560/63cc5080-1e02-402b-bfcf-108db690e205)
 
-### Assemle to object code
+### Assemble to object code
 ![image](https://github.com/yaoyao0103/SIC-assembler/assets/76504560/e37fd243-015e-4ab6-a232-350fe410ea9c)
 
 ### Prelink and load object code to memory 
