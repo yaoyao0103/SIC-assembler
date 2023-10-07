@@ -1,5 +1,5 @@
-## This is the repository of SIC Assembler
-## The repository of Linking Loader:
+### This is the repository of SIC Assembler
+### The repository of Linking Loader:
 Link: https://github.com/yaoyao0103/SIC-linking-loader
 
 ## Demo
